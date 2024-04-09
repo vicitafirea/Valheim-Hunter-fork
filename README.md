@@ -1,3 +1,3 @@
-# Valheim Mods
+# Fork of Valheim Hunter Mod
 
-I am going to use this repo to upload a set of sample mods. More details in individual projects.
+Added a grappling hook but the original mod is now out of date in the actual update Valheim.
